@@ -41,6 +41,7 @@ The project provides interactive visual insights using Pivot Tables, Charts, and
 - Online and Cash payments contributed equally
 
 ## 📷 Dashboard Preview
+
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## 🎯 Skills Learned
