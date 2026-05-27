@@ -1,57 +1,47 @@
-# 📊 Excel Sales Dashboard
 
-An interactive Sales Dashboard created using Microsoft Excel for analyzing supermarket sales performance.
+# 📊 Sales Dashboard in Excel
 
-## 🚀 Project Overview
+This project is an interactive Sales Dashboard created in Microsoft Excel to analyze supermarket sales data and business performance.
 
-This dashboard helps analyze:
+The dashboard provides insights into:
+- Sales performance
+- Profit analysis
+- Product performance
+- Category-wise sales
+- Payment methods
+- Monthly and daily trends
 
-- Total Sales
-- Profit Analysis
-- Product Performance
-- Category-wise Sales
-- Payment Modes
-- Monthly & Daily Sales Trends
-
-The project provides interactive visual insights using Pivot Tables, Charts, and Slicers.
-
-## 🛠 Tools & Technologies Used
-
+## 🔧 Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Data Visualization
-- Dashboard Design
 
-## 📌 Dashboard Features
-
-✅ Interactive Filters  
-✅ KPI Cards  
-✅ Profit Analysis  
-✅ Category-wise Breakdown  
-✅ Product Performance Tracking  
-✅ Monthly & Daily Sales Analysis  
+## ✨ Dashboard Features
+- Interactive filters for Year, Month, Sales Type, and Payment Mode
+- KPI cards for Total Sales, Profit, and Profit Percentage
+- Product and category analysis
+- Monthly and daily sales tracking
+- Dynamic charts and visual reports
 
 ## 📈 Key Insights
-
 - Category04 generated the highest sales
-- Direct Sales contributed maximum revenue
+- Direct Sales contributed the highest revenue
 - Profit percentage reached 21%
-- Online and Cash payments contributed equally
+- Cash and Online payments had almost equal contribution
 
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
-## 🎯 Skills Learned
-
-- Data Cleaning
-- Data Visualization
-- Business Analytics
-- Dashboard Creation
-- Excel Reporting
+## 🎯 What I Learned
+Through this project, I improved my skills in:
+- Excel dashboard creation
+- Data visualization
+- Business reporting
+- Interactive chart design
+- Data analysis using Pivot Tables
 
 ## 👨‍💻 Author
-
 Kalpesh Chaudhary
